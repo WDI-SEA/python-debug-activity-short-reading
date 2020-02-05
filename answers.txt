@@ -1,0 +1,14 @@
+1.  Coersion is another term for which if the following in Python:
+    d) Implicit conversion
+
+2.  Type casting is another term for which of the following in Python:
+    c) Explicit conversion
+
+3.  What function in Python can we use to check a variables type?
+    a) type()
+
+4.  Which of the following are not Primitive Data Types?
+    c) List
+
+5.  According to the article, what is the main reason to convert a tuple to a list?
+    Tuples are an immutable data type, so we must convert them into a list in order to modify the contents.
