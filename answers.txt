@@ -1,0 +1,8 @@
+1.) D
+2.)C
+3.)A
+4.)C
+5.)so that you can make changes to the tuple but its a good idea to convert back when you are done
+
+
+lol
