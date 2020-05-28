@@ -32,3 +32,8 @@ if offense and defense and rule_changes:
   print("We're going to the Super Bowl!")
 else:
   print("I can't predict the future, but no, the Jaguars will never win the Super Bowl.")
+
+# 1.)D - implicit type conversion
+# 2.)C - Explicit type conversion
+# 3.)A - typeof
+# 4.)C - list
