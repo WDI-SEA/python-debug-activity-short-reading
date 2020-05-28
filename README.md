@@ -66,11 +66,11 @@ def get_offense():
 def get_defense():
   defense = True
 
-  def get_rule_changes():
-    rule_changes = True
+def get_rule_changes():
+  rule_changes = True
 
-  if offense and defense:
-    get_rule_changes()
+if offense and defense:
+  get_rule_changes()
 
 get_offense()
 get_defense()
