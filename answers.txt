@@ -1,0 +1,4 @@
+1) Implicit type conversion
+2) Explicit type conversion
+3) type()
+4) List
