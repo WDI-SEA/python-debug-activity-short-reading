@@ -1,0 +1,6 @@
+1. D - Implicit Type Conversion
+2. C - Explicit Type Conversion
+3. A - type()
+4. C - List
+
+5. If you want to make changes to the original tuple. You can convert them to lists, change them, and then convert them back. Tuples are immutable.
