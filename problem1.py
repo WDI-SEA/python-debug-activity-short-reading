@@ -3,13 +3,19 @@ defense = False
 rule_changes = False
 
 def get_offense():
+    global offense
     offense = True
 
 def get_defense():
+    global defense
     defense = True
 
 def get_rule_changes():
+    global rule_changes
     rule_changes = True
+
+get_offense()
+get_defense()
 
 if offense and defense:
     get_rule_changes()
