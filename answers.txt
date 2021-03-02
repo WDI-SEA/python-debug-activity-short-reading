@@ -1,0 +1,9 @@
+d
+c
+a
+c
+You would change a tuple to a list 
+when you want to the tuple. Since 
+tuples are immutable you can change 
+them to a list and back again if need
+be.
