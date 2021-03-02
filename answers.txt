@@ -1,0 +1,9 @@
+1. d
+
+2. c
+
+3. a
+
+4. c
+
+5. Tuples are highly optimized but immutable. If you want to mutate a tuple value, you have to cast it to a list first.
