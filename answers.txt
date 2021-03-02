@@ -1,0 +1,11 @@
+1: D Implicit Coercion
+
+2: C Explicit type coercion
+
+3: A type()
+
+4: C List
+
+5: The main reason to convert a tuple to a list is because tuples are immutable, if you want to make
+   changes to the initial tuple you should convert it to a list, make the changes and then convert back
+   to a tuple.
