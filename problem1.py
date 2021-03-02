@@ -1,23 +1,24 @@
-offense = True
-defense = True
-rule_changes = True
+offense = False
+defense = False
+rule_changes = False
 
 def get_offense():
-#   offense = True
-  return offense
+  global offense
+  offense = True
+
   
 
 def get_defense():
-#   defense = True
-  return defense
-  
+  global defense
+  defense = True
 
-def get_rule_changes():
-    # rule_changes = True
+  def get_rule_changes():
+    global rule_changes
+    rule_changes = True
     return rule_changes
 
-if offense and defense:
-    get_rule_changes()
+  if offense and defense:
+      get_rule_changes()
 
 get_offense()
 # print('offense is', offense)
