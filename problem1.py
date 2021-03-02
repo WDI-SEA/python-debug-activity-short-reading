@@ -12,17 +12,16 @@ def get_defense():
   defense = True
   #print('defense is', defense)
 
-  def get_rule_changes():
-    global rule_changes
-    rule_changes = True
-    #print('rule changes are', rule_changes)
-
-  if offense and defense:
-    get_rule_changes()
-
+def get_rule_changes():
+  global rule_changes
+  rule_changes = True
+  #print('rule changes are', rule_changes)
 
 get_offense()
 get_defense()
+
+if offense and defense:
+  get_rule_changes()
 
 print("How are the Jags doing?\n")
 print("We have offense:", offense)
