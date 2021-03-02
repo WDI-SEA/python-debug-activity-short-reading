@@ -5,17 +5,17 @@ rule_changes = False
 def get_offense():
   global offense 
   offense = True
-  print('offense is', offense)
+  # print('offense is', offense)
 
 def get_defense():
   global defense 
   defense = True
-  print('defense is', defense)
+  # print('defense is', defense)
 
 def get_rule_changes():
   global rule_changes 
   rule_changes = True
-  print('rules have changed', rule_changes)
+  # print('rules have changed', rule_changes)
 
 get_offense()
 get_defense()
