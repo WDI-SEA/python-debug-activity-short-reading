@@ -34,3 +34,19 @@ if offense and defense and rule_changes:
 else:
   print("I can't predict the future, but no, the Jaguars will never win the Super Bowl.")
 
+1. Implicit type conversion
+
+
+2.  Explicit type conversion
+
+
+3. type()
+
+
+4. List
+
+
+5. Converting a tuple into a list is the only way to modify the tuple and either add or subtract data from it
+
+#Lists and Tuples in Python are used to store a collection of homogenous items. The difference between tuples and list is that tuples are immutable,
+which means onc defined you cannot delete, add or edit any values inside it
