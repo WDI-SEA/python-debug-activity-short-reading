@@ -1,0 +1,6 @@
+1. d, implicit type conversion
+2. c, explicit type conversion
+3. a, type()
+4. c, list
+5. you may want to make changes to the initial tuple. converting them back to lists to make changes and then can convert back into tuples
+
