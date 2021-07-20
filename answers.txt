@@ -1,0 +1,6 @@
+1. D
+2. C
+3. A
+4. C
+5. If you want to make changes to the tuple. Tuples are immutable so cannot 
+be changed once defined.
