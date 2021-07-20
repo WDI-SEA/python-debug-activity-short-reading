@@ -1,0 +1,9 @@
+1. D
+
+2. C
+
+3. A
+
+4. C
+
+5. If you want to make a change to the tuple, you would need to convert it to a list then make the changes, and then convert it back to a tuple
