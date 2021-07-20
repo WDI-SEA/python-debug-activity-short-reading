@@ -1,0 +1,5 @@
+1. d
+2. c
+3. a
+4. c
+5. Because they are immutable as tuples and you might want to change them.
