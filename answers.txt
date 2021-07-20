@@ -1,0 +1,5 @@
+1. d
+2. c
+3. a
+4. c
+5. The main reason to convert a tuple into a list is to make edits/changes. Tuples are immutable, therefore switching it to a list allows edits to be made.
