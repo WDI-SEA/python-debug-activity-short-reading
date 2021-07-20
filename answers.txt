@@ -1,0 +1,21 @@
+1. Coercion is another term for which of the following concepts in Python?
+
+    d) Implicit type conversion (data type conversion takes place either during compilation or during run time and is handled directly by Python)
+
+2. Type casting is another term for which of the following concepts in Python?
+
+    c) Explicit type conversion (when data type conversion takes place because you clearly defined it)
+
+3. What function in Python can we use to check a variable's type?
+
+    a) type()
+
+
+4. Which of the following is NOT a primitive data structure?
+
+    c) List
+
+
+5. According to the article, what is the main reason to convert a tuple into a list?
+
+    That's because tuples are immutable data type and allows substantial optimization to the programs that you create. Maybe you want to make changes to the initial tuple. Thus, you can convert them to lists and then make the change, then convert them back to tuples.
