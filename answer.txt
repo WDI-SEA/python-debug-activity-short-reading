@@ -1,0 +1,12 @@
+
+1. Cocercion is another term for which of the following concepts in Python?
+    D - implicit type conversion
+2. Type casting is another term for which of the following concepts in Python?
+    C - Explicit type conversion
+3. What function in Python can we use to check a variable's type?
+    A - Type()
+4. Which of the following is NOT a primitive data structure?
+    C - List
+5. What is the main reason to convert a tuple into a list?
+    The main reason to convert a tuple into a list is to change the values within the tuples. Tuples are converted into a list in order to change the values. 
+    Tuples are immutable while lists are mutable.
