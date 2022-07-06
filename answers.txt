@@ -1,0 +1,5 @@
+1. d) Implicit type conversion
+2. c) Explicit type conversion
+3. a) `type()`
+4. c) List
+5. Tuples are immutable data type and allows substantial optimization to the programs that you create.
