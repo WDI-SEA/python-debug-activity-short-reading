@@ -1,0 +1,10 @@
+1. d) implicit type conversion
+
+2. c) explicit type conversion
+
+3. a) type()
+
+4. c) List is not a primitive data structure
+
+5. The main reason to convert a tuple into a list would be to make it mutable again
+- so that you can then make changes, then afterwards convert them back to tuples
