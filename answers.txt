@@ -1,0 +1,5 @@
+1. D, coercion = Implicit type converion
+2. C, type casting = explicit type conversion
+3. A, use type() to check a vars type
+4. C, lists are enot primitive
+5. since tuples are immutable, changing them to a list would allow them to be altered
