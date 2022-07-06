@@ -6,17 +6,17 @@ This assignment was developed by Brandi
 Questions? Comments?
 1. Log an issue to this repo to alert me of a problem.
 2. Suggest an edit yourself by forking this repo, making edits, and submitting a pull request with your changes back to our master branch.
-3. Hit me up on Slack at @brandib.
+3. Hit me up on Slahttps://github.com/Hoan-K-Le/python-debug-activity-short-reading.gitck at @brandib.
 --->
 
 In this homework, you're going to write code for a challenge problem and answer some reading comprehension questions.
 
 You will practice these programming concepts we've covered in class:
 
-* Type conversion
-* Escape characters and string formatting
-* Debugging techniques
-* Variable scope
+- Type conversion
+- Escape characters and string formatting
+- Debugging techniques
+- Variable scope
 
 ---
 
@@ -28,7 +28,7 @@ For the reading quiz, make a text file called `answers.txt` and use it to compil
 
 For each of the code challenges listed below, you will create a new `.py` file and write code to solve the problem. For example, you would create `problem1.py` with your solution code to the first problem. Run the file from the command line to check your work.
 
-*Reminder: On your laptop, you can run the file from your command line with the following:*
+_Reminder: On your laptop, you can run the file from your command line with the following:_
 
 ```python
 python problem1.py
@@ -36,12 +36,12 @@ python problem1.py
 
 > **Hint:** Make sure you are printing something out with the `print` statement. Otherwise, you won't see any output from running your program!
 
-
 ## Requirements:
 
 By the end of this, you should have:
-* One `.py` file for the code challenge.
-* One text file with answers to the five reading comprehension questions.
+
+- One `.py` file for the code challenge.
+- One text file with answers to the five reading comprehension questions.
 
 ---
 
@@ -116,36 +116,36 @@ I can't predict the future, but no, the Jaguars will never win the Super Bowl.
 
 Read through the examples in this Data Camp article about [data types and type conversion](https://www.datacamp.com/community/tutorials/python-data-type-conversion). Then, answer the following questions.
 
-#### 1. *Coercion* is another term for which of the following concepts in Python?
+#### 1. _Coercion_ is another term for which of the following concepts in Python?
 
-* a) Encapsulation
-* b) Inheritance
-* c) Explicit type conversion
-* d) Implicit type conversion
-* e) Floor division
+- a) Encapsulation
+- b) Inheritance
+- c) Explicit type conversion
+- d) Implicit type conversion
+- e) Floor division
 
-#### 2. *Type casting* is another term for which of the following concepts in Python?
+#### 2. _Type casting_ is another term for which of the following concepts in Python?
 
-* a) Encapsulation
-* b) Inheritance
-* c) Explicit type conversion
-* d) Implicit type conversion
-* e) Floor division
+- a) Encapsulation
+- b) Inheritance
+- c) Explicit type conversion
+- d) Implicit type conversion
+- e) Floor division
 
 #### 3. What function in Python can we use to check a variable's type?
 
-* a) `type()`
-* b) `typeof()`
-* c) `typeof`, but it is an operator not a function
-* d) `get_type()`
+- a) `type()`
+- b) `typeof()`
+- c) `typeof`, but it is an operator not a function
+- d) `get_type()`
 
 #### 4. Which of the following is NOT a primitive data structure?
 
-* a) Float
-* b) Integer
-* c) List
-* d) String
-* e) Both a and c are not primitives
+- a) Float
+- b) Integer
+- c) List
+- d) String
+- e) Both a and c are not primitives
 
 #### 5. According to the article, what is the main reason to convert a tuple into a list?
 
