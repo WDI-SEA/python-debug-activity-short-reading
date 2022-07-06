@@ -121,20 +121,20 @@ Read through the examples in this Data Camp article about [data types and type c
 * a) Encapsulation
 * b) Inheritance
 * c) Explicit type conversion
-* d) Implicit type conversion
+* d) Implicit type conversion --
 * e) Floor division
 
 #### 2. *Type casting* is another term for which of the following concepts in Python?
 
 * a) Encapsulation
 * b) Inheritance
-* c) Explicit type conversion
+* c) Explicit type conversion --
 * d) Implicit type conversion
 * e) Floor division
 
 #### 3. What function in Python can we use to check a variable's type?
 
-* a) `type()`
+* a) `type()` --
 * b) `typeof()`
 * c) `typeof`, but it is an operator not a function
 * d) `get_type()`
@@ -143,12 +143,12 @@ Read through the examples in this Data Camp article about [data types and type c
 
 * a) Float
 * b) Integer
-* c) List
+* c) List --
 * d) String
-* e) Both a and c are not primitives
+* e) Both a and c are not primitives 
 
 #### 5. According to the article, what is the main reason to convert a tuple into a list?
-
+#### to make changes to the initial tuple
 ---
 
 ## See Ya Later!
