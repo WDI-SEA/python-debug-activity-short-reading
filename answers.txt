@@ -1,0 +1,5 @@
+1. d
+2. c
+3. a
+4. c
+5. Converting tuples into lists is useful when you need to make changes to an initial tuple. (Tuples are immutable, so they need to be converted to Lists to have changes made)
