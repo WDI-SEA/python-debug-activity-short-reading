@@ -5,7 +5,7 @@ d) Implicit type conversion
 c) Explicit type conversion
 
 3. What function in Python can we use to check a variable's type?
-b) typeof()
+a) type()
 
 4. Which of the following is NOT a primitive data structure?
 c) List
